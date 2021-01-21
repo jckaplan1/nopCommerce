@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-01-15T02:25:56Z" name="Default suite" finished-at="2021-01-15T02:25:56Z" duration-ms="91">
+  <suite started-at="2021-01-21T21:17:10Z" name="Default suite" finished-at="2021-01-21T21:17:11Z" duration-ms="106">
     <groups>
     </groups>
-    <test started-at="2021-01-15T02:25:56Z" name="Default test" finished-at="2021-01-15T02:25:56Z" duration-ms="91">
+    <test started-at="2021-01-21T21:17:10Z" name="Default test" finished-at="2021-01-21T21:17:11Z" duration-ms="106">
       <class name="com.testCases.GithubDeneme">
-        <test-method signature="github()[pri:0, instance:com.testCases.GithubDeneme@12a94400]" started-at="2021-01-15T02:25:56Z" name="github" finished-at="2021-01-15T02:25:56Z" duration-ms="37" status="PASS">
+        <test-method signature="github()[pri:0, instance:com.testCases.GithubDeneme@563e4951]" started-at="2021-01-21T21:17:10Z" name="github" finished-at="2021-01-21T21:17:11Z" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- github -->
+        <test-method signature="github12()[pri:0, instance:com.testCases.GithubDeneme@563e4951]" started-at="2021-01-21T21:17:11Z" name="github12" finished-at="2021-01-21T21:17:11Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- github12 -->
+        <test-method signature="githubdifererefds()[pri:0, instance:com.testCases.GithubDeneme@563e4951]" started-at="2021-01-21T21:17:11Z" name="githubdifererefds" finished-at="2021-01-21T21:17:11Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- githubdifererefds -->
       </class> <!-- com.testCases.GithubDeneme -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
