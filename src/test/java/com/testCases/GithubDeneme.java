@@ -18,6 +18,7 @@ public class GithubDeneme {
 
 		SoftAssert soft = new SoftAssert();
 		soft.assertTrue(true);
+		System.out.println("AAdvcA");
 
 	}
 
@@ -27,6 +28,7 @@ public class GithubDeneme {
 		SoftAssert soft = new SoftAssert();
 		soft.assertTrue(true);
 		int s = 29;
+		System.out.println("AAdvcA");
 
 	}
 
