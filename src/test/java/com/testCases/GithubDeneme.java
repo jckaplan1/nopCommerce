@@ -29,6 +29,7 @@ public class GithubDeneme {
 		soft.assertTrue(true);
 		int s = 29;
 		System.out.println("AAdvcA");
+		System.out.println("AAdvcA");
 
 	}
 
