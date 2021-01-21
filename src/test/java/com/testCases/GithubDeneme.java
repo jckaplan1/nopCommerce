@@ -26,6 +26,7 @@ public class GithubDeneme {
 
 		SoftAssert soft = new SoftAssert();
 		soft.assertTrue(true);
+		int s = 29;
 
 	}
 
