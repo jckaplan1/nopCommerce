@@ -18,18 +18,7 @@ public class GithubDeneme {
 
 		SoftAssert soft = new SoftAssert();
 		soft.assertTrue(true);
-		System.out.println("AAdvcA");
-
-	}
-
-	@Test()
-	void githubdifererefds() {
-
-		SoftAssert soft = new SoftAssert();
-		soft.assertTrue(true);
-		int s = 29;
-		System.out.println("AAdvcA");
-		System.out.println("AAdvcA");
+		
 
 	}
 
